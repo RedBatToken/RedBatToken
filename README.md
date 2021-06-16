@@ -1,4 +1,4 @@
- 👋 Hi, we are @RedBatToken are we are going to let us know a bit more about our project
+ 👋 Hi, we are @RedBatToken are we are going to let you know a bit more about our project
  
 What is Red Bat?
 
