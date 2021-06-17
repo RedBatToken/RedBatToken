@@ -104,4 +104,4 @@ REDDIT: https://www.reddit.com/user/RedBatToken
 
 GITHUB: https://github.com/RedBatFinance
 
-MEDIUM: https://medium.com/@RedBatToken
+MEDIUM: redbatfinance.medium.com 
